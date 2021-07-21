@@ -35,6 +35,14 @@ div[class="4x4x4"]
     background-color:black;
     padding:15px;
 }
+div[class="5x5x5"]
+{
+    position:absolute;
+    height:130%;
+    width:20%;
+    background-color:black;
+    padding:15px;
+}
 p[class="pmenu"]
 {
     color:white;

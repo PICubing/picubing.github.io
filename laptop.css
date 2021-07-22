@@ -3,42 +3,10 @@
     margin:0px;
     padding:0px;
 }
-div[class="index"]
+div
 {
-    position:absolute;
-    height:130%;
-    width:20%;
-    background-color:black;
-    padding:15px;
-}
-div[class="2x2x2"]
-{
-    position:absolute;
-    height:170%;
-    width:20%;
-    background-color:black;
-    padding:15px;
-}
-div[class="3x3x3"]
-{
-    position:absolute;
-    height:320%;
-    width:20%;
-    background-color:black;
-    padding:15px;
-}
-div[class="4x4x4"]
-{
-    position:absolute;
-    height:190%;
-    width:20%;
-    background-color:black;
-    padding:15px;
-}
-div[class="5x5x5"]
-{
-    position:absolute;
-    height:130%;
+    position:fixed;
+    height:100%;
     width:20%;
     background-color:black;
     padding:15px;

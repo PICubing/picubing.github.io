@@ -44,6 +44,7 @@ document.onmousedown=killCopy
 document.onclick=reEnable
 }
     </script>
+    <script src="simulators/AnimCube3.js" type="text/javascript"></script>
         <title>
             PI Cubing - 3x3x3
         </title>
@@ -80,7 +81,9 @@ document.onclick=reEnable
         <h1 align="center">
             3x3x3
         </h1>
-        <iframe></iframe>
+        <div class="simdiv">
+            <script>AnimCube3("initrevmove=#&bgcolor=ffffff")</script>
+           </div>
         <p class="pcontent" style="margin-bottom:10px;">
             The 3x3x3 rubiks cube (the original rubiks cube) has many, many ways 
             to solve it. Over here are listed the major algorithms for the most 

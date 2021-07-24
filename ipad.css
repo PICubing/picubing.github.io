@@ -24,6 +24,19 @@ p[class="pmenu"]
     font-size:30px;
     margin-bottom:10px;
 }
+p[class="pyramenu"]
+{
+    color:white;
+    background-color:grey;
+    font-family:rockwell;
+    width:90%;
+    margin:auto;
+    padding:10px;
+    border-radius:15px;
+    text-align:center;
+    font-size:30px;
+    margin-bottom:10px;
+}
 a
 {
     text-decoration:none;

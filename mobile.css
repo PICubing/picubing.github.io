@@ -23,6 +23,18 @@ p[class="pmenu"]
     font-size:20px;
     margin-bottom:10px;
 }
+p[class="pyramenu"]
+{
+    color:white;
+    background-color:grey;
+    font-family:rockwell;
+    width:80%;
+    padding:10px;
+    border-radius:15px;
+    text-align:center;
+    font-size:15px;
+    margin-bottom:10px;
+}
 a
 {
     text-decoration:none;

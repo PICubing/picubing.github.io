@@ -3,7 +3,7 @@
     margin:0px;
     padding:0px;
 }
-div
+div[class="menudiv"]
 {
     position:fixed;
     height:100%;

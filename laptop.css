@@ -3,13 +3,19 @@
     margin:0px;
     padding:0px;
 }
-div
+div[class="menudiv"]
 {
     position:fixed;
     height:100%;
     width:20%;
     background-color:black;
     padding:15px;
+}
+div[class="simdiv"]
+{
+    width:400px;
+    height:400px;
+    margin-left:48%;
 }
 p[class="pmenu"]
 {

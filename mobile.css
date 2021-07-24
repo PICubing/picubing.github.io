@@ -11,6 +11,12 @@ div[class="menudiv"]
     background-color:black;
     padding:15px;
 }
+div[class="simdiv"]
+{
+    width:200px;
+    height:200px;
+    margin-left:40%;
+}
 p[class="pmenu"]
 {
     color:white;
